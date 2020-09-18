@@ -1,4 +1,4 @@
-### Hello there, I'm Tien Phan ✌🎉 [Check Out My Blog](https://medicine2code.com)
+### Hello there, I'm Tien Phan😁 [Check Out My Blog](https://medicine2code.com)
 
 <!--
 **TienPhanDev/TienPhanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Start learning Golang
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts
 
-### How to get in touch💻:
+### How to get in touch📬:
 
 [<img align="left" alt="tienphanDev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="tienphanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
