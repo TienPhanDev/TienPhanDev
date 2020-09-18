@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 ### How to get in touch📬
-[<img align="left" alt="tienphanDev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="tienphanDev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/boost.svg" />][website]
 [<img align="left" alt="tienphanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tienphanDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
