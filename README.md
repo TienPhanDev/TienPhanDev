@@ -1,4 +1,4 @@
-### Hello there, I'm Tien Phan😁 [Check Out My Blog](https://medicine2code.com)
+### Hello there, I'm Tien Phan😁
 
 <!--
 **TienPhanDev/TienPhanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Software Developer, Pharmacist, Teacher, and Sports enthusiast!
+### I'm a Software Developer, Pharmacist, Teacher, Student, and Sports enthusiast!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn from Senior Code Designers
@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 
 
 
-### How to get in touch📬:
+### How to get in touch📬
 [<img align="left" alt="tienphanDev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="tienphanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tienphanDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
 
-### Technical Skills👨‍💻:
+### Technical Skills👨‍💻
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="Redux" width="26px" src="https://img2.pngio.com/redux-react-javascript-vuejs-single-page-application-png-redux-png-820_500.jpg" />]
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br />
 ---
 
-### Latest Blog Posts📕: 
+### Latest Blog Posts📕 
 
 <!-- BLOG-POST-LIST:START -->
 - [INTRODUCTION TO THE REACT CONTEXT API](https://www.medicine2code.com/introduction-to-the-react-context-api/)
