@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 
 ➡️ [more blog posts...](https://medicine2code.com)
 <br />
+<br />
 Thanks for visiting! ✌
 
 ---
