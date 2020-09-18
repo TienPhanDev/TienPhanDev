@@ -1,4 +1,4 @@
-### Hello there, I'm Tien Phan ✌🎉 [My Blog](https://medicine2code.com)
+### Hello there, I'm Tien Phan ✌🎉 [Check Out My Blog](https://medicine2code.com)
 
 <!--
 **TienPhanDev/TienPhanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 (https://open.spotify.com/user/t.phan89)
 
 
-### Connect with me:
+### How to get in touch:
 
 [<img align="left" alt="tienphanDev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="tienphanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
@@ -49,7 +48,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="MaterialUI" width="26px" src="https://material-ui.com/static/logo.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
 <br />
 ---
 
