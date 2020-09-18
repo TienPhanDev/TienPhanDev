@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Website]]
-
 ## I'm a Software Developer, Pharmacist, Teacher, and Sports enthusiast!
 
 - 🌱 I’m currently learning everything 🤣
@@ -68,7 +66,7 @@ Here are some ideas to get you started:
 - [3 HIGHLY RECOMMENDED RESOURCE(S) TO LEARN/IMPROVE CODING SKILLS](https://www.medicine2code.com/3-highly-recommended-resources-to-learn-improve-coding-skills/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medicine2code.com)
+➡️ [more blog posts...](https://medicine2code.com)✌
 
 ---
 
