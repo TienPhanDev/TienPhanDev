@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### I'm a Software Developer, Pharmacist, Teacher, Student, and Sports enthusiast!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to learn from Senior Code Designers
+- 👯 I’m looking to learn from seasoned developers on best practices
 - 🥅 2020 Goals: Start learning Golang
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
 
@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 ### How to get in touch📬
 [<img align="left" alt="tienphanDev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="tienphanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="tienphanDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<br />
+[<img align="left" alt="tienphanDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]<br />
 
 ### Technical Skills👨‍💻
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/javascript.svg" />
