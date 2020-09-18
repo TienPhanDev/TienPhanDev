@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Website](https://img.shields.io/website?label=medicine2code.com&style=for-the-badge&url=https%3A%2F%2Fmedicine2code.com)](https://medicine2code.com)
+[![Website]](https://medicine2code.com)
 
 ## I'm a Software Developer, Pharmacist, Teacher, and Sports enthusiast!
 
