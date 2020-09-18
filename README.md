@@ -61,11 +61,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+- [INTRODUCTION TO THE REACT CONTEXT API](https://www.medicine2code.com/introduction-to-the-react-context-api/)
+- [LEETCODE AND CODING CHALLENGES](https://www.medicine2code.com/leetcode-and-coding-challenges/)
+- [EXPLAINING THE JAVASCRIPT CALL STACK AND CALLBACK QUEUE](https://www.medicine2code.com/explaining-the-javascript-call-stack-and-callback-queue/)
+- [UNDERSTANDING OBJECT-ORIENTED PROGRAMMING (OOP)](https://www.medicine2code.com/understanding-object-oriented-programming-oop/)
+- [3 HIGHLY RECOMMENDED RESOURCE(S) TO LEARN/IMPROVE CODING SKILLS](https://www.medicine2code.com/3-highly-recommended-resources-to-learn-improve-coding-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medicine2code.com)
@@ -73,5 +73,5 @@ Here are some ideas to get you started:
 ---
 
 [website]: https://medicine2code.com
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/TienPhanDev
 [linkedin]: https://linkedin.com/in/tien-phan-dc
