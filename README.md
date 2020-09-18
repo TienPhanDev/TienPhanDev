@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn from seasoned developers on best practices
 - 🥅 2020 Goals: Start learning Golang
-- ⚡ Fun fact: I have a robust memory of song lyrics & sports facts
-<br />
+- ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
 
 
 
