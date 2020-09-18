@@ -1,4 +1,4 @@
-### Hello there, I'm Tien Phan😁
+### Hello there, I'm Tien Phan👋
 
 <!--
 **TienPhanDev/TienPhanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
