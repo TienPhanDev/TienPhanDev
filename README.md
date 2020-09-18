@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 - 🥅 2020 Goals: Start learning Golang
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts
 
-### Spotify Playing 🎧
-(https://open.spotify.com/user/t.phan89)
-
-
 ### How to get in touch💻:
 
 [<img align="left" alt="tienphanDev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -62,6 +58,7 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medicine2code.com)
+<br />
 Thanks for visiting! ✌
 
 ---
