@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 (https://open.spotify.com/user/t.phan89)
 
 
-### How to get in touch:
+### How to get in touch💻:
 
 [<img align="left" alt="tienphanDev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="tienphanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### Languages and Tools:
+### Technical Skills👨‍💻:
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 - [3 HIGHLY RECOMMENDED RESOURCE(S) TO LEARN/IMPROVE CODING SKILLS](https://www.medicine2code.com/3-highly-recommended-resources-to-learn-improve-coding-skills/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medicine2code.com)✌
+➡️ [more blog posts...](https://medicine2code.com)
+Thanks for visiting! ✌
 
 ---
 
