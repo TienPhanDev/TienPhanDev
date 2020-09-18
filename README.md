@@ -1,4 +1,4 @@
-### Hi there, I'm Tien Phan ✌🎉
+### Hello there, I'm Tien Phan ✌🎉
 
 <!--
 **TienPhanDev/TienPhanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Website]](https://medicine2code.com)
+[![Website]]
 
 ## I'm a Software Developer, Pharmacist, Teacher, and Sports enthusiast!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to learn from Senior Code Designers
 - 🥅 2020 Goals: Start learning Golang
-- ⚡ Fun fact: I have a robust memory of song lyrics & sports facts.
+- ⚡ Fun fact: I have a robust memory of song lyrics & sports facts
 
 ### Spotify Playing 🎧
-(https://open.spotify.com/user/t.phan89?si=cZW7vpjRkKCgiJPddm5Lw)
+(https://open.spotify.com/user/t.phan89)
 
 
 ### Connect with me:
