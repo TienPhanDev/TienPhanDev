@@ -1,36 +1,21 @@
-### Hello there, I'm Tien Phan👋
+# Hello there, I'm Tien Phan👋
 
-<!--
-**TienPhanDev/TienPhanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### I'm a Software Developer, Pharmacist, Teacher, Student, and Sports enthusiast!
+## I'm a Software Developer, Pharmacist, Teacher, Student, and Sports enthusiast!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to learn from seasoned developers on best practices
+- 👨‍🏫 I’m looking to learn from seasoned developers on best practices
 - 🥅 2020 Goals: Start learning Golang
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
 
 
 
-### How to get in touch📬
+## How to get in touch📬
 [<img align="left" alt="tienphanDev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/boost.svg" />][website]
 [<img align="left" alt="tienphanDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tienphanDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br />
 
-### Technical Skills👨‍💻
+## Technical Skills👨‍💻
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/javascript.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/redux.svg" />
@@ -46,7 +31,7 @@ Here are some ideas to get you started:
 <br />
 
 
-### Latest Blog Posts📕 
+## My Latest Blog Posts &#x270d; 
 
 <!-- BLOG-POST-LIST:START -->
 - [INTRODUCTION TO THE REACT CONTEXT API](https://www.medicine2code.com/introduction-to-the-react-context-api/)
@@ -59,6 +44,10 @@ Here are some ideas to get you started:
 ➡️ [more blog posts...](https://medicine2code.com)
 <br />
 <br />
+
+## &#x1f4c8; GitHub Stats
+![Tien's github stats](https://github-readme-stats.vercel.app/api?username=tienphandev&show_icons=true&theme=dracula)
+
 Thanks for visiting! ✌
 
 ---
