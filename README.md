@@ -50,6 +50,8 @@
 
 Thanks for visiting! ✌
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tienphandev.visitor-badge)
+
 ---
 
 [website]: https://medicine2code.com
