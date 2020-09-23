@@ -16,39 +16,39 @@
 <br />
 
 ## Technical Skills👨‍💻
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="MaterialUI" width="26px" src="https://material-ui.com/static/logo.png" />
-<img align="left" alt="Rails" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/ruby.svg" />
-
-<br />
-
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white")
+![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
 
 ## My Latest Blog Posts &#x270d; 
 
 <!-- BLOG-POST-LIST:START -->
-- [INTRODUCTION TO THE REACT CONTEXT API](https://www.medicine2code.com/introduction-to-the-react-context-api/)
-- [LEETCODE AND CODING CHALLENGES](https://www.medicine2code.com/leetcode-and-coding-challenges/)
-- [EXPLAINING THE JAVASCRIPT CALL STACK AND CALLBACK QUEUE](https://www.medicine2code.com/explaining-the-javascript-call-stack-and-callback-queue/)
-- [UNDERSTANDING OBJECT-ORIENTED PROGRAMMING (OOP)](https://www.medicine2code.com/understanding-object-oriented-programming-oop/)
-- [3 HIGHLY RECOMMENDED RESOURCE(S) TO LEARN/IMPROVE CODING SKILLS](https://www.medicine2code.com/3-highly-recommended-resources-to-learn-improve-coding-skills/)
+- [Explaining how to use the React Context API](https://www.medicine2code.com/introduction-to-the-react-context-api/)
+- [How to improve Leetcode & Coding Challenges](https://www.medicine2code.com/leetcode-and-coding-challenges/)
+- [Explaining the JavaScript Call Stack & Event Loop](https://www.medicine2code.com/explaining-the-javascript-call-stack-and-callback-queue/)
+- [Understanding Oject Oriented Programming (OOP)](https://www.medicine2code.com/understanding-object-oriented-programming-oop/)
+- [3 Highly Recommended Resources to learn How to Code](https://www.medicine2code.com/3-highly-recommended-resources-to-learn-improve-coding-skills/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://medicine2code.com)
+➡️ [click for more blog posts...](https://medicine2code.com)
 <br />
 <br />
 
 ## &#x1f4c8; GitHub Stats
 ![Tien's github stats](https://github-readme-stats.vercel.app/api?username=tienphandev&show_icons=true&theme=dracula)
 
-Thanks for visiting! ✌
+## Thanks for visiting! ✌
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tienphandev.visitor-badge)
 
