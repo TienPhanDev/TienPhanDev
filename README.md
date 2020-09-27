@@ -34,11 +34,11 @@
 ## My Latest Blog Posts &#x270d; 
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I went from Pharmacy to pursue Coding](https://www.medicine2code.com/why-i-went-from-pharmacy-to-programming/)
 - [Explaining how to use the React Context API](https://www.medicine2code.com/introduction-to-the-react-context-api/)
 - [How to improve Leetcode & Coding Challenges](https://www.medicine2code.com/leetcode-and-coding-challenges/)
 - [Explaining the JavaScript Call Stack & Event Loop](https://www.medicine2code.com/explaining-the-javascript-call-stack-and-callback-queue/)
 - [Understanding Oject Oriented Programming (OOP)](https://www.medicine2code.com/understanding-object-oriented-programming-oop/)
-- [3 Highly Recommended Resources to learn How to Code](https://www.medicine2code.com/3-highly-recommended-resources-to-learn-improve-coding-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [click for more blog posts...](https://medicine2code.com)
