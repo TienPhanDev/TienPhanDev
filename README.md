@@ -34,7 +34,7 @@
 ## My Latest Blog Posts &#x270d; 
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use Sequelize with Node.js](hhttps://www.medicine2code.com/how-to-use-sequelize-with-node-js//)
+- [How to use Sequelize with Node.js](https://www.medicine2code.com/how-to-use-sequelize-with-node-js/)
 - [Why I went from Pharmacy to pursue Coding](https://www.medicine2code.com/why-i-went-from-pharmacy-to-programming/)
 - [Explaining how to use the React Context API](https://www.medicine2code.com/introduction-to-the-react-context-api/)
 - [How to improve Leetcode & Coding Challenges](https://www.medicine2code.com/leetcode-and-coding-challenges/)
