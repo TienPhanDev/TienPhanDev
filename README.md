@@ -1,6 +1,6 @@
 # Allow me to introduce myself, I'm Tien Phan<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px">
 
-## I'm a Software Developer, Pharmacist, Teacher, Student, and Sports enthusiast!
+## I am a Software Developer, Pharmacist, Teacher, Student, and Sports enthusiast!
 
 - 🌱 I’m currently learning everything 🤣
 - 👨‍🏫 I’m seeking an engineering team to contribute to & learn with
