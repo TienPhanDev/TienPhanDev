@@ -3,8 +3,8 @@
 ## I'm a Software Developer, Pharmacist, Teacher, Student, and Sports enthusiast!
 
 - 🌱 I’m currently learning everything 🤣
-- 👨‍🏫 I’m looking to learn from seasoned developers on best practices
-- 🥅 2020 Goals: Start learning Golang
+- 👨‍🏫 I’m seeking an engineering team to contribute to & learn with
+- 🥅 2020 Goals: Start learning Golang & start for the AWS Solutions Architect Certification
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
 
 
