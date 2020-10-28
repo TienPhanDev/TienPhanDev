@@ -53,4 +53,5 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tienphandev.visitor-badge)
 
+## "He who has begun is half done" -The great poet Nasir Jones
 ---
