@@ -50,9 +50,7 @@
 ## &#x1f4c8; GitHub Stats
 ![Tien's github stats](https://github-readme-stats.vercel.app/api?username=tienphandev&show_icons=true&theme=dracula)
 
-## Thanks for visiting! ✌
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tienphandev.visitor-badge)
-
 ## "He who has begun is half done" -The great poet Nasir Jones
+## Thanks for visiting! ✌
 ---
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tienphandev.visitor-badge)
