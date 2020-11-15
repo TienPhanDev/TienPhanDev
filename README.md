@@ -1,10 +1,10 @@
-# Allow me to introduce myself, I'm Tien Phan<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px">
+# Allow me to introduce myself, my name is Tien Phan<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px">
 
 ## I am a Software Developer, Pharmacist, Teacher, Student, and Sports enthusiast!
 
-- 🌱 I’m currently learning everything 🤣
-- 👨‍🏫 I’m seeking an engineering team to contribute to & learn with
+- :book: I’m currently learning everything 🤣
 - 🥅 2020 Goals: Start learning Golang & start for the AWS Solutions Architect Certification
+- :dart: 2021 Goals: 1) Reach mastery of React & 2) Find and contribute to a healthcare based opensource project
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
 
 
@@ -34,6 +34,7 @@
 ## My Latest Blog Posts &#x270d; 
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide: How to setup a Rails API backend](https://www.medicine2code.com/guide-how-to-setup-rails-api-as-backend/)
 - [How to use Sequelize with Node.js](https://www.medicine2code.com/how-to-use-sequelize-with-node-js/)
 - [Why I went from Pharmacy to pursue Coding](https://www.medicine2code.com/why-i-went-from-pharmacy-to-programming/)
 - [Explaining how to use the React Context API](https://www.medicine2code.com/introduction-to-the-react-context-api/)
