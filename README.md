@@ -1,6 +1,6 @@
 # Allow me to introduce myself, my name is Tien Phan<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px">
 
-## I am a Software Developer, Pharmacist, Teacher, Student, and Sports enthusiast!
+## I am a software developer, Pharmacist, teacher, student, and sports enthusiast!
 
 - :book: I’m currently learning everything 🤣
 - 🥅 2020 Goals: Start learning Golang & start for the AWS Solutions Architect Certification
