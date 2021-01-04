@@ -3,10 +3,8 @@
 ## I am a software developer, Pharmacist, teacher, student, and sports enthusiast!
 
 - :book: I’m currently learning everything 🤣
-- 🥅 2020 Goals: Start learning Golang & start for the AWS Solutions Architect Certification
-- :dart: 2021 Goals: 1) Reach mastery of React & 2) Find and contribute to a healthcare based opensource project
+- :dart: 2021 Goals: 1) Gain mastery of React & 2) Start learning Golang
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
-
 
 
 ## How to get in touch📬
