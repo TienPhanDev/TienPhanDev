@@ -2,7 +2,7 @@
 
 ## I am a software developer, Pharmacist, teacher, student, and sports enthusiast!
 
-- :book: I’m currently parallelism 🤓
+- :book: I’m currently learning parallelism 🤓
 - :dart: 2021 Goals: 1) AWS cloud-certified & 2) Start attending developer conferences
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
 
