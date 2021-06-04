@@ -2,8 +2,8 @@
 
 ## I am a software developer, Pharmacist, teacher, student, and sports enthusiast!
 
-- :book: I’m currently learning everything 🤣
-- :dart: 2021 Goals: 1) Gain mastery of React & 2) Start learning Golang
+- :book: I’m currently parallelism 🤓
+- :dart: 2021 Goals: 1) AWS cloud-certified & 2) Start attending developer conferences
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
 
 
@@ -18,9 +18,11 @@
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white")
 ![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +31,7 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
 
-## My Latest Blog Posts &#x270d; 
+## My Latest Blog Posts (apologies on the lack of updates...) &#x270d; 
 
 <!-- BLOG-POST-LIST:START -->
 - [Explaining how to use the React Context API](https://www.medicine2code.com/introduction-to-the-react-context-api/)
