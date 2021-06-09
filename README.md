@@ -1,4 +1,4 @@
-# Allow me to introduce myself, my name is Tien Phan<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px">
+# Allow me to introduce myself, my name is Tien<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="36px">
 
 ## I am a software developer, Pharmacist, teacher, student, and sports enthusiast!
 
