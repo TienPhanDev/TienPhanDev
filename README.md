@@ -2,8 +2,8 @@
 
 ## I am a software developer, pharmacist, teacher, student, and sports enthusiast!
 
-- :book: I’m currently learning parallelism 🤓
-- :dart: 2021 Goals: 1) AWS cloud-certified & 2) Start attending developer conferences
+- :book: I’m currently learning concurrency 🤓
+- :dart: 2022 Goals: 1) Get AWS cloud-certified & 2) Start attending developer conferences
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
 
 
@@ -29,7 +29,7 @@
 ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)
 
-## My Latest Blog Posts (apologies on the lack of updates...) &#x270d; 
+## Blog Posts (apologies on the lack of updates...) &#x270d; 
 
 <!-- BLOG-POST-LIST:START -->
 - [Explaining how to use the React Context API](https://www.medicine2code.com/introduction-to-the-react-context-api/)
@@ -48,4 +48,4 @@
 ![Tien's github stats](https://github-readme-stats.vercel.app/api?username=tienphandev&show_icons=true&theme=dracula)
 
 ## "He who has begun is half done" -The great poet Nasir Jones
-## Thanks for visiting! ✌ ![visitors](https://visitor-badge.glitch.me/badge?page_id=tienphandev.visitor-badge)
+## Thank you for visiting! ✌ ![visitors](https://visitor-badge.glitch.me/badge?page_id=tienphandev.visitor-badge)
