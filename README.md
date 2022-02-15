@@ -32,12 +32,11 @@
 ## Blog Posts (apologies on the lack of updates...) &#x270d; 
 
 <!-- BLOG-POST-LIST:START -->
-- [Explaining how to use the React Context API](https://www.medicine2code.com/introduction-to-the-react-context-api/)
-- [Guide: How to setup a Rails API backend](https://www.medicine2code.com/guide-how-to-setup-rails-api-as-backend/)
-- [How to use Sequelize with Node.js](https://www.medicine2code.com/how-to-use-sequelize-with-node-js/)
-- [Why I went from Pharmacy to pursue Coding](https://www.medicine2code.com/why-i-went-from-pharmacy-to-programming/)
-- [How to improve Leetcode & Coding Challenges](https://www.medicine2code.com/leetcode-and-coding-challenges/)
-- [Explaining the JavaScript Call Stack & Event Loop](https://www.medicine2code.com/explaining-the-javascript-call-stack-and-callback-queue/)
+- [Implement Code Splitting in React with Suspense](https://www.medicine2code.com/posts/implement-code-splitting-in-react-with-suspense)
+- [Essential VS Code Extensions For Remote Work](https://www.medicine2code.com/posts/essential-vs-code-extensions-for-remote-work)
+- [Use Hooks + Context, not React + Redux](https://www.medicine2code.com/posts/how-to-manage-state-in-react)
+- [Why I went from Pharmacy to pursue Coding](https://www.medicine2code.com/posts/why-i-went-from-pharmacy-to-coding)
+- [Building RESTful APIs with Node, Sequelize & PostgresQL](https://www.medicine2code.com/posts/building-restful-apis-with-node-sequelize-and-postgresql)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [click for more blog posts...](https://medicine2code.com)
