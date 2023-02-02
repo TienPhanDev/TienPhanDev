@@ -3,7 +3,7 @@
 ## I am a software developer, pharmacist, teacher, student, and sports enthusiast!
 
 - :book: I’m currently learning concurrency 🤓
-- :dart: 2022 Goals: 1) Get AWS cloud-certified & 2) Start attending developer conferences
+- :dart: 2023 Goals: 1) Start & record 1 episode of a podcast & 2) Attend RubyCon 2023
 - ⚡ Fun fact: I have a robust memory of song lyrics & sports facts<br />
 
 
